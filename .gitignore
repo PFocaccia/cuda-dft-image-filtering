@@ -1,0 +1,8 @@
+# Local builds
+/dft-seq
+/dft-cuda
+/dft-spectrum
+*.o
+
+# Input images and generated results
+*.pgm
